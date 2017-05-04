@@ -9,7 +9,7 @@ Download UCSD traffic dataset datasets form here which contains 254 highway vide
 
 Classes are given for each videos.
 
-Method:
+Method: this method is working with 2fps 
 
 1. extract local image features of all training images (e.g. HOG or SIFT).
 
@@ -23,12 +23,19 @@ Now get 10 images per frame from videos for each catagory make 3 folder differen
 
 getimage.py = for getting images from videos.
 
-Unsupervised Task: get sift features and using k-mean (k = number of feature) generates codebook
+Unsupervised Task: Here 2fps will be used. get sift features and using k-mean (k = number of feature) generates codebook 
 
 Now using this codebook or dictionary find the bag of visual word for each image and assign label and save into csv file.
 
-features.py : will create dictionary and make bag of visual word and finaly making cav file of heavy , medium, light.csv files 
+features.py: will create dictionary and make bag of visual word and finaly making cav file of heavy , medium, light.csv files 
 which we will use for prediction. 
+
+feutures_k5.py = will generates 5 features from each image
+feutures_k10.py = will generates 10 features from each image
+feutures_k5.py = will generates 15 features from each image
+feutures_k5.py = will generates 100 features from each image
+
+
 
 
 
