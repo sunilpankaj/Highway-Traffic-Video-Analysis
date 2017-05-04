@@ -52,6 +52,5 @@ classk_30.ipynb for k = 30 features
 
 classk_100.ipynb for k = 100 features
 
-
-
+plot.py for plotting accuracy of each model for different-different k for comparing model.
 
