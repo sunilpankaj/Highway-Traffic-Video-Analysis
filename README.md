@@ -42,7 +42,9 @@ feutures_k100.py = will generates 100 features from each image
 
 feutures_folder: You can find all csv file corresponding to each file.
 
-Now combine all csv file (light, medium, heavy) for each k (features) and make prediction using svm, decision_tree, randomforest, extratree clasifie.
+Now combine all csv file (light, medium, heavy) for each k (features) and make prediction using svm, Adaboost, randomforest, extratree clasifie.
+
+We are getting the best accuracy (95.3%) using ExtraTreesClassifier for 100 features or value of k = 100.
 
 classk_5.ipynb for k = 5 features
 
