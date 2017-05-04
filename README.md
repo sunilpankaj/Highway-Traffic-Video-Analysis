@@ -74,3 +74,7 @@ Comparing Model:
 
 ![screenshot from 2017-05-01 00 42 28 2](https://cloud.githubusercontent.com/assets/14961825/25705944/9cd8bc76-30fc-11e7-8744-9feec5c48f35.png)
 
+4. k = 5
+
+![screenshot from 2017-05-01 00 42 09 2](https://cloud.githubusercontent.com/assets/14961825/25705982/c1e6a94c-30fc-11e7-9402-8d99ef1aec77.png)
+
