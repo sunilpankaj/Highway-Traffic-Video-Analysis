@@ -42,6 +42,15 @@ feutures_k100.py = will generates 100 features from each image
 
 feutures_folder: You can find all csv file corresponding to each file.
 
+Now combine all csv file (light, medium, heavy) for each k (features) and make prediction using svm, decision_tree, randomforest, extratree clasifie.
+
+classk_5.ipynb for k = 5 features
+
+classk_10.ipynb for k = 10 features
+
+classk_30.ipynb for k = 30 features
+
+classk_100.ipynb for k = 100 features
 
 
 
