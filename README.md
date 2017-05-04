@@ -36,6 +36,8 @@ feutures_k10.py = will generates 10 features from each image
 
 feutures_k15.py = will generates 15 features from each image
 
+feutures_k30.py = will generates 30 features from each image
+
 feutures_k100.py = will generates 100 features from each image
 
 feutures_folder: You can find all csv file corresponding to each file.
