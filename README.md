@@ -59,3 +59,11 @@ plot.py for plotting accuracy of each model for different-different k for compar
 Result: confusion matrix for extratreeclasifier for k 100
 
 ![screenshot from 2017-05-01 00 51 38](https://cloud.githubusercontent.com/assets/14961825/25705587/71dbbf38-30fb-11e7-94f5-2840e440ff87.png)
+
+Comparing Model: 
+
+1. k = 100
+
+![screenshot from 2017-05-01 00 43 18 2](https://cloud.githubusercontent.com/assets/14961825/25705818/3f966432-30fc-11e7-9831-3c385fd469ed.png)
+
+
