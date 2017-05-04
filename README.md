@@ -56,3 +56,6 @@ classk_100.ipynb for k = 100 features
 
 plot.py for plotting accuracy of each model for different-different k for comparing model.
 
+Result: confusion matrix for extratreeclasifier for k 100
+
+![screenshot from 2017-05-01 00 51 38](https://cloud.githubusercontent.com/assets/14961825/25705587/71dbbf38-30fb-11e7-94f5-2840e440ff87.png)
