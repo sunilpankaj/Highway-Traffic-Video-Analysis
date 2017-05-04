@@ -70,3 +70,7 @@ Comparing Model:
 
 ![screenshot from 2017-05-01 00 43 06 2](https://cloud.githubusercontent.com/assets/14961825/25705881/73570ace-30fc-11e7-87a5-c13f3fa1b6f0.png)
 
+3. k = 10
+
+![screenshot from 2017-05-01 00 42 28 2](https://cloud.githubusercontent.com/assets/14961825/25705944/9cd8bc76-30fc-11e7-8744-9feec5c48f35.png)
+
