@@ -16,7 +16,7 @@ Method: this method is working with 2fps
 
 3. train a classifie.
 
-First saparatevideos into 3 classes heavy, medium, light.
+First separate videos into 3 classes heavy, medium, light.
 
 Now get 10 images per frame from videos for each catagory make 3 folder different folders of each class.
 
